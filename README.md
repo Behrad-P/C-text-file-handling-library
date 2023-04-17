@@ -44,10 +44,14 @@ int main()
 
 ~~~
 
+kiwi:
+20 Kg
+5 $  
+
 selected field not found Or The file was not created correctly
 orange:
-5 Kg
-8 $
+5 Kg   
+8 $    
 
 ~~~
 
