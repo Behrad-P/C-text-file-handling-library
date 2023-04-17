@@ -1,6 +1,6 @@
 # C-text-file-handling-library
 
-**Create your text files in the easiest way in c/c++ language and enjoy**
+**Create your text files in the easiest way in c/c++ language and enjoy.**
 
 __Example:__
 
@@ -40,7 +40,7 @@ int main()
 
 ~~~
 
-**OUtput:**
+**Output:**
 
 ~~~
 
