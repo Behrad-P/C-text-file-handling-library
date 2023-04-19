@@ -1,6 +1,6 @@
 # C-text-file-handling-library
 
-**Create your text files in the easiest way in c and enjoy.**
+**Create your text files in the easiest way in C and enjoy.**
 
 __Example:__
 
